@@ -1,6 +1,7 @@
 # MZR DNS Checker - Family Safe Blocklist
-# Generated on: 2025-09-20T14:23:34.105Z
-# Total domains: 1
+# Generated on: 2025-09-20T15:56:18.566Z
+# Total domains: 2
 # بسم الله الرحمن الرحيم - In the name of Allah, the Most Gracious, the Most Merciful
 
+||roomdatabae.com^
 ||zain.com^
